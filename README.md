@@ -1,0 +1,5 @@
+- 👋 Hi, I’m André
+- 👀 I’m interested in Education, Technology, and more recently Digital Marketing
+- 🌱 I’m currently learning Programming, mainly Outsystems
+- 💞️ I’m looking to collaborate with a company on programming, marketing or technology consultancy, mainly looking to establish a career in one of these areas.
+- 📫 You can reach me through my e-mail address andre.spinola97@gmail.com or my linkedin page: https://www.linkedin.com/in/andr%C3%A9-sp%C3%ADnola-68503a137/
